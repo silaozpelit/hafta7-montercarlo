@@ -1,4 +1,4 @@
-'''python
+
 import random
 def hilelizar(n):
     a = b = c = d = e = f = 0
@@ -27,4 +27,4 @@ def hilelizar(n):
     print('6 olasılığı:', f / s)
 
 hilelizar(360000)
-'''
+
